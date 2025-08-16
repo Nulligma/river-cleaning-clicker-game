@@ -1,6 +1,11 @@
-# gold_miner
+# Description
 
 Idle clicker game for wearOS
+
+# Todo
+
+Convert gold mining to river cleaning game
+
 
 ## Getting Started
 
